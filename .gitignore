@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# os
+__MACOSX/
+
+# vs code
+.vscode/
+*.code-workspace
+
+# AsterixDB
+asterix-server-0.9.8-binary-assembly/
+
+# datasets
+data/
