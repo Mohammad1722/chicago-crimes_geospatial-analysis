@@ -141,3 +141,7 @@ asterix-server-*-binary-assembly.zip
 
 # datasets
 data/
+
+# files and folders whose name starts with "qqq" are experimental and ignored
+qqq*
+qqq*/
