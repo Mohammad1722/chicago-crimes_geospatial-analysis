@@ -19,5 +19,5 @@ This repository is part of Google Summer of Code (GSoC) project: "Geospatial Dat
     pip3 install numpy matplotlib pandas geopandas geoplot notebook
     ```
 ## **Important Note**
-The [geoplot](https://residentmario.github.io/geoplot/) library has many dependencies with specific compatible verseions that you may need to install manyally in order to get the library to work. A [`conda`](https://www.anaconda.com/) environment may solve this issue but I haven't tested it yet.  
+The [geoplot](https://residentmario.github.io/geoplot/) library has many dependencies with specific compatible verseions that you may need to install manually in order to get the library to work. A [`conda`](https://www.anaconda.com/) environment may solve this issue but I haven't tested it yet.  
 Everything in this repository is developed on `Ubuntu 22.04` with `Python 3.10.4`.
