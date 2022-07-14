@@ -136,7 +136,8 @@ __MACOSX/
 *.code-workspace
 
 # AsterixDB
-asterix-server-0.9.8-binary-assembly/
+asterix-server-*-binary-assembly/
+asterix-server-*-binary-assembly.zip
 
 # datasets
 data/
