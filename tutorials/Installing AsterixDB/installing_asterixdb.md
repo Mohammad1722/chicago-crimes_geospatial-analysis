@@ -2,6 +2,8 @@
 
 This tutorial illustrates how to download and install AsterixDB and provides the fastest way to set up a single-machine sample instance of AsterixDB using the included helper scripts. 
 
+---
+
 ## Table of Contents
 
 * [Specifications](#specifications)
@@ -11,11 +13,11 @@ This tutorial illustrates how to download and install AsterixDB and provides the
 
 ---
 
-### Specifications
+## Specifications
 The following tutorial is run on `Ubuntu 22.04` operating system.
 
 
-### Prerequisites
+## Prerequisites
 * __JDK 11__  
 You can find the JDK installation instructions in [https://openjdk.org/install/](https://openjdk.org/install/).  
     > _Make sure to install the JDK package not the JRE one_
@@ -27,7 +29,7 @@ You can find the JDK installation instructions in [https://openjdk.org/install/]
     ```
 
 
-### Steps
+## Steps
 1. Download the latest version of AsterixDB through the official [downloads page](https://asterixdb.apache.org/download.html).  
     > _Make sure to select the option for **Simple Server Package**_
     ![screenshot from website](img/downloading_asterixdb.png)
@@ -37,7 +39,7 @@ You can find the JDK installation instructions in [https://openjdk.org/install/]
 3. That's it! You are ready to go.
 
 
-### Test Your Installation
+## Test Your Installation
 1. Open a new terminal and navigate to the `apache-asterixdb` *inside* the folder you just extracted.  
     ```bash
     $ cd path/to/asterix-server/apache-asterixdb
