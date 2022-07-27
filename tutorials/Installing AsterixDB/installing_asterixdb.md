@@ -19,14 +19,14 @@ The following tutorial is run on `Ubuntu 22.04` operating system.
 
 ## Prerequisites
 * __JDK 11__  
-You can find the JDK installation instructions in [https://openjdk.org/install/](https://openjdk.org/install/).  
-    > _Make sure to install the JDK package not the JRE one_
-    ![screenshot from website](img/installing_jdk.png)
-
     For `Ubuntu` you can simply use the following command:
     ```bash
     $ sudo apt-get install openjdk-11-jdk
     ```
+    Or, you can find the full JDK installation instructions in [https://openjdk.org/install/](https://openjdk.org/install/).  
+    > _Make sure to install the JDK package not the JRE one_
+    ![screenshot from website](img/installing_jdk.png)
+
 
 
 ## Steps
@@ -91,7 +91,7 @@ and here you can run queries interactively and see what it does.
     >
     > $
     > ```
+    And this is a screenshot of how the terminal may look like after running the commands above.
+        ![starting sample cluster from terminal screenshot](img/terminal_starting_stopping_cluster.png)
 
-And this is a screenshot of how the terminal may look like after running the commands above.
-    ![starting sample cluster from terminal screenshot](img/terminal_starting_stopping_cluster.png)
-
+7. That's it! Now you have successfully installed AsterixDB on your machine and you're good to go.  
