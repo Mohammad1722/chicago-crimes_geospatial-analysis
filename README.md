@@ -42,7 +42,7 @@ Make sure you have downloaded AsterixDB, the datasets, and successfully installe
     
 * [Tutorials](./tutorials/):
     This folder contains tutorials about using AsterixDB for performing Data Analysis using AsterixDB.
-    1. [Installing AsterixDB](./Installing\ AsterixDB/)
-    2. [Loading the Datasets](./Loading\ the\ Datasets/)
-    3. [Simple Data Analysis Questions](./Simple\ Data\ Analysis\ Questions/)
+    1. [Installing AsterixDB](Installing\ AsterixDB/)
+    2. [Loading the Datasets](Loading\ the\ Datasets/)
+    3. [Simple Data Analysis Questions](Simple\ Data\ Analysis\ Questions/)
 
