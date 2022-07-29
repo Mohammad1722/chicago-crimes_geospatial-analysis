@@ -32,17 +32,17 @@ Make sure you have downloaded AsterixDB, the datasets, and successfully installe
 
 ## Project Contents
 * [Notebooks](./notebooks/):  
-    1. [Preprocessing.ipynb](notebooks/Preprocessing.ipynb) contains the preprocessing steps that are used on the datasets before analyzing them in Python.  
+    1. [Preprocessing.ipynb](./notebooks/Preprocessing.ipynb) contains the preprocessing steps that are used on the datasets before analyzing them in Python.  
     If you want to replicate the results of this project you'll have to execute the cells of this notebook at least once after downloading the datasets to generate the pickle files that are loaded by the 2nd notebook.
 
-    2. [chicago_crimes.ipynb](notebooks/chicago_crimes.ipynb) contains the proposed questions on the datasets, as well as the AsterixDB queries and the Pandas code used to answer each question.
+    2. [chicago_crimes.ipynb](./notebooks/chicago_crimes.ipynb) contains the proposed questions on the datasets, as well as the AsterixDB queries and the Pandas code used to answer each question.
 
 * [Scripts](./scripts/):  
     This folder contains the Pandas code for each question separately and is used to measure the execution time for each question independently.
     
 * [Tutorials](./tutorials/):
     This folder contains tutorials about using AsterixDB for performing Data Analysis using AsterixDB.
-    1. [Installing AsterixDB](Installing\ AsterixDB/)
-    2. [Loading the Datasets](Loading\ the\ Datasets/)
-    3. [Simple Data Analysis Questions](Simple\ Data\ Analysis\ Questions/)
+    1. [Installing AsterixDB](./tutorials/Installing%20AsterixDB/installing_asterixdb.md)
+    2. [Loading the Datasets](./tutorials/Loading%20the%20Datasets/loading_the_datasets.md)
+    3. [Simple Data Analysis Questions](./tutorials/Simple%20Data%20Analysis%20Questions/simple_data_analysis_questions.md)
 
